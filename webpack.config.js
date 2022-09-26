@@ -5,7 +5,16 @@ module.exports = {
   mode: "production",
   devtool: "source-map",
   entry: {
-    application: "./app/javascript/application.js"
+    application: "./app/assets/javascript/index.js"
+  },
+  module: {
+    rules: [
+      {
+        test: /\.(js)$/,
+        exclude: /node_modules/,
+        use: ['babel-loader'],
+      },
+    ],
   },
   output: {
     filename: "[name].js",
