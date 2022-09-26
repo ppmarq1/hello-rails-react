@@ -1,24 +1,42 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails React
 
-Things you may want to cover:
+This project is a Implementation with a connection between a Ruby on Rails back-end and React front-end.
 
-* Ruby version
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* System dependencies
+- Copy this link `https://github.com/ppmarq1/hello-rails-react.git'.
+- Get the directory that you want to clone the repository.
+- Open the command prompt in this directory.
+- Write `https://github.com/ppmarq1/hello-rails-react.git`.
+- Go to the repository folder in your command prompt `cd recipe-app`.
 
-* Configuration
+- Follow these steps to run the app:
+  - run `gem install`, then run `rails s`
 
-* Database creation
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Pedro Marques**
 
-* Services (job queues, cache servers, search engines, etc.)
+- GitHub: https://github.com/ppmarq1
+- Twitter: https://twitter.com/ppmarq1
+- LinkedIn: https://br.linkedin.com/in/pedroalmeidamarques/
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/ppmarq1/hello-rails-react/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
